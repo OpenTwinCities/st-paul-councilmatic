@@ -2,6 +2,11 @@
 
 An instance of [Councilmatic](https://github.com/codeforamerica/councilmatic), a subscription service for city council legislative information, started in Philadelphia, for St. Paul.  Based on code for the [Philly instance](https://github.com/mjumbewu/philly-councilmatic).
 
+## Issues
+
+This is not currently working as the [scraper](https://github.com/fgregg/legistar-scrape) is not working for the [St. Paul Legistar site](http://stpaul.legistar.com/Legislation.aspx) (advanced search).
+
+
 ## Install
 
 1. (optional) Create a Virtualenv
