@@ -4,7 +4,7 @@ An instance of [Councilmatic](https://github.com/codeforamerica/councilmatic), a
 
 ## Issues
 
-This is not currently working as the [scraper](https://github.com/fgregg/legistar-scrape) is not working for the [St. Paul Legistar site](http://stpaul.legistar.com/Legislation.aspx) (advanced search).
+This is not currently working as the [scraper](https://github.com/fgregg/legistar-scrape) is not working for the [St. Paul Legistar site](http://stpaul.legistar.com/Legislation.aspx) (advanced search).  The St. Paul Legistar site does not supply introduction date which is a key field in Councilmatic.  Either the scraper needs to be updated, or the Council Clerk needs to supply this information.
 
 
 ## Install
